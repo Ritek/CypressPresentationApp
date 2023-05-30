@@ -1,0 +1,14 @@
+{
+  "name": "CypressDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "mocha-junit-reporter": "^2.2.0"
+  }
+}
